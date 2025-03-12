@@ -1,0 +1,12 @@
+Flask
+keras==2.13.7      # Update with caution, potential API changes
+matplotlib==3.8.3   # Consider update for improvements
+numpy==1.24.4      # Generally safe
+opencv-python==4.8.0.53 # Update with caution, potential API changes
+pandas==1.5.4      # Generally safe
+Pillow==9.5.3       # Generally safe
+scikit-learn==1.2.4  # Generally safe
+seaborn==0.13.3      # Consider update for improvements
+tensorflow==2.12.2   # Stable choice, avoid latest (2.13.0)
+tensorflow-intel==2.12.2 # Stable choice, avoid latest (2.13.0)
+tqdm==4.76.1         # Generally safe
