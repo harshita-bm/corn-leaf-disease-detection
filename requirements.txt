@@ -13,3 +13,6 @@ tqdm==4.67.1         # Generally safe
 
 tensorflow==2.12.1   # Kept this version for compatibility
 keras==2.12.0        # Matched to TensorFlow version
+gunicorn
+
+
