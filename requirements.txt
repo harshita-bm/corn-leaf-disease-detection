@@ -3,14 +3,13 @@ pip>=25.0.1
 
 #keras<2.13      # Update with caution, potential API changes
 matplotlib==3.8.3   # Consider update for improvements
-numpy==1.24.4      # Generally safe
+numpy==1.24.3      # Fixed: TensorFlow 2.12.1 requires numpy<=1.24.3
 opencv-python==4.7.0.68 # Update with caution, potential API changes
 pandas==2.2.3      # Generally safe
 Pillow==9.5.0       # Generally safe
 scikit-learn==1.2.2  # Generally safe
 seaborn==0.13.2     # Consider update for improvements
-#tensorflow==2.13.0   # Stable choice, avoid latest (2.13.0)
-#tensorflow-intel==2.12.1 # Stable choice, avoid latest (2.13.0)
 tqdm==4.67.1         # Generally safe
-tensorflow==2.12.1
-keras==2.12.0
+
+tensorflow==2.12.1   # Kept this version for compatibility
+keras==2.12.0        # Matched to TensorFlow version
