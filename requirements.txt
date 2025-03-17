@@ -6,7 +6,7 @@ matplotlib==3.8.3   # Consider update for improvements
 numpy==1.24.4      # Generally safe
 opencv-python==4.7.0.68 # Update with caution, potential API changes
 pandas==2.2.3      # Generally safe
-Pillow==9.5.3       # Generally safe
+Pillow==9.5.0       # Generally safe
 scikit-learn==1.2.4  # Generally safe
 seaborn==0.13.3      # Consider update for improvements
 tensorflow==2.12.2   # Stable choice, avoid latest (2.13.0)
