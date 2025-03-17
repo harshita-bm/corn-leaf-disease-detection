@@ -9,6 +9,6 @@ pandas==2.2.3      # Generally safe
 Pillow==9.5.0       # Generally safe
 scikit-learn==1.2.2  # Generally safe
 seaborn==0.13.2     # Consider update for improvements
-tensorflow==2.12.2   # Stable choice, avoid latest (2.13.0)
+tensorflow==2.12.1   # Stable choice, avoid latest (2.13.0)
 tensorflow-intel==2.12.2 # Stable choice, avoid latest (2.13.0)
 tqdm==4.76.1         # Generally safe
