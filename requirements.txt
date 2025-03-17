@@ -1,5 +1,7 @@
 Flask
-keras==2.13.7      # Update with caution, potential API changes
+pip>=25.0.1
+
+keras==2.13.1      # Update with caution, potential API changes
 matplotlib==3.8.3   # Consider update for improvements
 numpy==1.24.4      # Generally safe
 opencv-python==4.8.0.53 # Update with caution, potential API changes
